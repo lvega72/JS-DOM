@@ -1,15 +1,15 @@
-#section-header {
+#section-header, #section-header2 {
     background-color: blue;
     color: white;
     padding: 5px;
 }
 
-#accordion {
+#accordion, #accordion2 {
     width: 400px;
     background-color: yellow;
     margin: auto;
 }
 
-#section {
+#section, #section2 {
     padding: 5px;
 }

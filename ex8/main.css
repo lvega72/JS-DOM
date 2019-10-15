@@ -5,3 +5,14 @@
 #description, #search, #todo-list {
     font-size: 1.5em;
 }
+
+p {
+    display: inline-block;
+    margin: 10px 0px 0px 0px;
+}
+
+button {
+    vertical-align: middle;
+    margin-right: 10px;
+    font-size: 15px;
+}
